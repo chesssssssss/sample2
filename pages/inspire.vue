@@ -176,7 +176,7 @@
             nuxt
             to ="~https://www.facebook.com/"
           >
-            Teerapat Suteerapongpun
+            Teerapat Suteerapongpun (KT.Zhang)
           </v-btn>
         </v-card-actions>
               <v-list-item-subtitle>CEO</v-list-item-subtitle>
